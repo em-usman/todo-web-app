@@ -114,7 +114,11 @@ To run the project, execute the following command: Example command:
 
 ### Deployment
 
-You can deploy this project using github pages.
+```sh
+  npm run build
+```
+
+You can deploy this project using github pages, netlify, vercel after building the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
